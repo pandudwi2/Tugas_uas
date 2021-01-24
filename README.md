@@ -9,5 +9,7 @@ http://localhost/project_uas/admin/index.php
 dengan username : admin
 password : admin
 
+nama Pandu Dwi Setiawan
+nm 1810510006
 
 
